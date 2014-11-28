@@ -6,8 +6,6 @@
 
 package dm;
 
-import player.Dado;
-
 /**
  *
  * @author Rafael
